@@ -18,3 +18,5 @@ Webscraper folder is when I began this project and thought it was going to turn 
 AutoBidder Older Versions folder is where the actual function of the end product began development
 
 Finshed Versions folder contains the finished versions of the bot in .exe format, runnable on windows.
+
+FF stands for FireFox, and CH stands for Chrome. In the finished versions, the numbers following CH stands for the Chrome version.
