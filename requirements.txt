@@ -1,0 +1,5 @@
+altgraph==0.17
+macholib==1.14
+PyInstaller==3.6
+selenium==3.141.0
+urllib3==1.25.9
