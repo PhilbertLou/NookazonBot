@@ -2,7 +2,7 @@
 This script will autobid for you on a specific product on Nookazon!
 
 
-**NOTE: THIS NO LONGER WORKS ON NOOKAZON'S UPDATED SITE. AN UPDATE IS NOT CURRENTLY PLANNED BUT I MAY REVISIT THIS PROJECT.
+**NOTE**: THIS NO LONGER WORKS ON NOOKAZON'S UPDATED SITE. AN UPDATE IS NOT CURRENTLY PLANNED BUT I MAY REVISIT THIS PROJECT.
 
 To make this work from your end (with the .py scripts rather than the finished product), you must install selenium. 
 
